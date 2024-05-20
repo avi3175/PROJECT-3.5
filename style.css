@@ -1,0 +1,141 @@
+.navbar-items p{
+    padding-left:20px;
+}
+.banner{
+    background-color:#1b1a24;
+    width: 450px;
+    height: 150px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom:-40px;
+    right:35px;
+    
+}
+.right{
+    width: 50px;
+}
+.left{
+    width: 50px;
+}
+.system{
+    position: absolute;
+    right: 1200px;
+    top:50px;
+    gap:5px;
+}
+/* ********************************************************************************************** */
+
+.card {
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    min-height: 300px; 
+  }
+  .center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
+
+  .card-one {
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    height: 450px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card-body {
+    text-align: center;
+  }
+
+  /* ********************************************************************************************** */
+
+  .card-two {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    width: 600px; 
+  }
+  
+  .card-img-2 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    height: 172px; 
+  }
+  
+  .card-img-2 img {
+    width: 80%;
+    height: 100%;
+  }
+  
+  .card-details-2 {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 172px; 
+  }
+  
+  .detail-line-2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .detail-line-2 p {
+    margin-bottom: 0;
+    margin-left: 5px;
+  }
+  
+
+
+  .detail-line-3 {
+    margin-bottom: 10px;
+}
+
+.detail-line-3 p {
+    margin-bottom: 0;
+}
+
+.detail-line-3 .fa {
+    font-size: 18px;
+}
+
+
+/*******************************************************************************************************/
+
+
+
+
+.texty{
+  height: 250px;
+}
+
+
+
+.super-form-one{
+  height: 100%;
+}
+
+.super-form-two{
+  height: 100%;
+}
+
+.logo{
+  width: 250px;
+}
+
+.off-white{
+  background-color: #fffde7;
+
+}
